@@ -1,5 +1,7 @@
 # 🎤🔥 **שיר מלא בסגנון GenesisWave Trap – “CREATION RISE”**
 
+<img width="1024" height="1024" alt="Celestial Rise of Creation" src="https://github.com/user-attachments/assets/348ec334-c344-4ab5-9ab0-bbfb114e4e5a" />
+
 ### ⭐ שם מאגר מוצע: **CreationRise (CR)**
 
 ### 📦 קיצור: **CR** – Creation + Rise
