@@ -2,6 +2,15 @@
 
 # 🔥 HollyRap - באטל ראפ של קדושה 🔥
 
+- https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%2216XxeKo0SvdnFZ_Ho-73ItXdbiqUnizaV%22%5D,%22action%22:%22open%22,%22userId%22:%22103930013484441813523%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
+- <img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/c68b468e-c719-406e-a768-b42469d92099" />
+- <img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/fd52252d-63ae-462b-afee-72ec431f8fc5" />
+- <img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/2d241d13-f59b-4e3e-8028-815526303682" />
+- <img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/e1eb25c8-fbf7-40cc-ba0c-2e51a0f7862b" />
+
+
+
+
 <div align="center">
 
 [![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/AnLoMinus/hollyrap/releases)
@@ -194,3 +203,4 @@ hollyrap/
 
 - [סיום]
 (בום. המשחק נגמר. יצר הרע בחוץ. יצר הטוב בשליטה. שמע ישראל השם אלקינו השם אחד. דריל של אמונה. Am Israel Chai. Peace out.)
+
