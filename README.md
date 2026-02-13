@@ -204,3 +204,10 @@ hollyrap/
 - [סיום]
 (בום. המשחק נגמר. יצר הרע בחוץ. יצר הטוב בשליטה. שמע ישראל השם אלקינו השם אחד. דריל של אמונה. Am Israel Chai. Peace out.)
 
+
+
+---
+
+- https://suno.com/playlist/0c27dc0b-55ec-4642-9779-21145c0bac46
+
+<img width="1680" height="930" alt="image" src="https://github.com/user-attachments/assets/c301ad5c-9e09-4889-8ed6-9a88e745e981" />
