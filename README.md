@@ -3,6 +3,12 @@
 # 🔥 HollyRap - באטל ראפ של קדושה 🔥
 
 - https://ai.studio/apps/f9c99eba-f1d0-4aa9-b772-2ee6bc1c339b
+- <img width="995" height="823" alt="image" src="https://github.com/user-attachments/assets/27115e18-07d1-4ebd-9879-1292a20db3f7" />
+- <img width="1003" height="957" alt="image" src="https://github.com/user-attachments/assets/2811a1ac-3c9f-49ab-8254-596d0e3df62f" />
+- <img width="545" height="765" alt="image" src="https://github.com/user-attachments/assets/f2765436-d387-46de-9519-0c0db070fdf3" />
+
+
+
 - <img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/c68b468e-c719-406e-a768-b42469d92099" />
 - <img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/fd52252d-63ae-462b-afee-72ec431f8fc5" />
 - <img width="1680" height="1050" alt="image" src="https://github.com/user-attachments/assets/2d241d13-f59b-4e3e-8028-815526303682" />
